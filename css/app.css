@@ -24,6 +24,7 @@ body {
 .destination-container {
     display: flex;
     flex-flow: wrap;
+        transition: transform 0.5s;
     justify-content: center;
 }
 
